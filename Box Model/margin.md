@@ -16,3 +16,13 @@ div {
 }
 ```
     * Cuidado com margin collapsing (top se ajunta ao bottom)
+
+  
+
+
+
+
+
+
+    https://developer.mozilla.org/en-US/docs/Web/CSS/margin
+--------------------------------------------------------------------------
